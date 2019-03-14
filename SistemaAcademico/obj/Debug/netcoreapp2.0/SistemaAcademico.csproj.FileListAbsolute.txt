@@ -1,0 +1,11 @@
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAcademico\SistemaAcademico\bin\Debug\netcoreapp2.0\SistemaAcademico.deps.json
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAcademico\SistemaAcademico\bin\Debug\netcoreapp2.0\SistemaAcademico.runtimeconfig.json
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAcademico\SistemaAcademico\bin\Debug\netcoreapp2.0\SistemaAcademico.runtimeconfig.dev.json
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAcademico\SistemaAcademico\bin\Debug\netcoreapp2.0\SistemaAcademico.dll
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAcademico\SistemaAcademico\obj\Debug\netcoreapp2.0\SistemaAcademico.csprojAssemblyReference.cache
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAcademico\SistemaAcademico\obj\Debug\netcoreapp2.0\SistemaAcademico.csproj.CoreCompileInputs.cache
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAcademico\SistemaAcademico\obj\Debug\netcoreapp2.0\SistemaAcademico.AssemblyInfoInputs.cache
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAcademico\SistemaAcademico\obj\Debug\netcoreapp2.0\SistemaAcademico.AssemblyInfo.cs
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAcademico\SistemaAcademico\bin\Debug\netcoreapp2.0\SistemaAcademico.pdb
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAcademico\SistemaAcademico\obj\Debug\netcoreapp2.0\SistemaAcademico.dll
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAcademico\SistemaAcademico\obj\Debug\netcoreapp2.0\SistemaAcademico.pdb
